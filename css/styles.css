@@ -107,7 +107,8 @@ p{
 }
 
 .sunflower {
-  height: 600px;
+  position: relative;
+  left: -200px;
 }
 
 .skill-row {
