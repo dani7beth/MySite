@@ -107,6 +107,7 @@ p{
 }
 
 .sunflower {
+  size: 50%;
   position: relative;
   left: -200px;
 }
