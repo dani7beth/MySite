@@ -184,3 +184,20 @@ p {
 .subtitle {
   font-weight: normal;
 }
+
+@media(max-width:425px) {
+  body {
+    font-size: .9rem;
+  }
+
+  h1 {
+    font-size: 4rem;
+  }
+
+  .subtitle {
+    font-size: 2rem;
+  }
+  .bottom-cloud,.top-cloud,.sunflower{
+    width: 30%;
+  }
+}
