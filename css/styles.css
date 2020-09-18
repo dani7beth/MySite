@@ -91,7 +91,7 @@ p {
 }
 
 .bottom-cloud {
-  height: 100px;
+  width: 20%;
   top: 450px;
   left: 10px;
   position: absolute;
@@ -138,14 +138,14 @@ p {
 }
 
 .top-cloud {
-  height: 100px;
+  width: 20%;
   position: absolute;
   right: 10px;
   top: 5px;
 }
 
 .sunflower {
-  height: 200px;
+  width: 15%;
   position: relative;
   bottom: 10px;
   left: 10px;
